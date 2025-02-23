@@ -1,4 +1,4 @@
-# ArtLens - Interactive Museum Guide Powered by AI
+# 🖼️🔎 ArtLens - Interactive Museum Guide Powered by AI
 
 <div style="display: flex; justify-content: space-around;">
   <img src="../assets/icon.jpeg" width="500">
