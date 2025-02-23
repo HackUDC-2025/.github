@@ -21,6 +21,7 @@ ArtLens is a mobile application that acts as an interactive and personalized mus
   <img src="../assets/scan.jpeg" width="200">
   <img src="../assets/result.jpeg" width="200">
 </div>
+
 ## What does ArtLens do? What problem does it solve?
 
 ArtLens solves the problem of visiting a museum without a guide or audio guide by offering an enriched and contextually adapted experience. Often, visitors lack access to specialized guides or cannot fully appreciate their visit due to a lack of contextualized information. ArtLens addresses this by providing:
