@@ -1,5 +1,7 @@
 # ArtLens - Interactive Museum Guide Powered by AI
 
+![icon](../assets/icon.jpeg)
+
 **Project developed for HackUDC 2025**
 
 - **[Code of Conduct](../CODE_OF_CONDUCT.md)**
@@ -11,6 +13,10 @@ ArtLens is a mobile application designed to transform the museum experience by o
 ## What is ArtLens?
 
 ArtLens is a mobile application that acts as an interactive and personalized museum guide. Its name reflects its purpose: to be a "lens" that enhances and enriches the user's museum experience using artificial intelligence technology.
+
+![icon](../assets/home.jpeg)
+![icon](../assets/scan.jpeg)
+![icon](../assets/result.jpeg)
 
 ## What does ArtLens do? What problem does it solve?
 
